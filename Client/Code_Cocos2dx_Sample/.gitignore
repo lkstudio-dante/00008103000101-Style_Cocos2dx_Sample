@@ -561,5 +561,6 @@ tests/cpp-tests/Resources/audio
 
 # Extra
 !/cocos2d/cocos/platform/win32/
+!/cocos2d/external/glfw3/include/win32/
 
 # End of https://www.toptal.com/developers/gitignore/api/cocos2dx
