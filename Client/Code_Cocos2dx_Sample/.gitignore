@@ -560,8 +560,7 @@ tests/cpp-tests/Resources/audio
 *.xcscmblueprint
 
 # Extra
-!/cocos2d/cocos/audio/win32/
-!/cocos2d/cocos/platform/win32/
-!/cocos2d/external/glfw3/include/win32/
+!/cocos2d/cocos/**/win32/
+!/cocos2d/external/**/win32/
 
 # End of https://www.toptal.com/developers/gitignore/api/cocos2dx
