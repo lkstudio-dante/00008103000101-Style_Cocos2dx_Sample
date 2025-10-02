@@ -25,7 +25,7 @@
 
 cmake_minimum_required(VERSION 3.6)
 
-set(APP_NAME Code_Cocos2dx_Sample)
+set(APP_NAME Style_Cocos2dx_Sample)
 
 project(${APP_NAME})
 
